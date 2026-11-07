@@ -116,8 +116,6 @@ the block it fired in; a fader set through the stream must sound as one set
 on the player; and a read straight after `play()` must never report the song
 over.
 
-Version 1.0.0, on taudplay-java 4.7.4.
-
 ## Licence
 
 LGPL-3.0-or-later — see `COPYING.LESSER` (and `COPYING` for the GPL text it

@@ -1,7 +1,7 @@
 # taudplay-libgdx
 
 <p align="center"><em>You are currently looking at the LibGDX version.</em></p>
-<p align="center"><a href="https://github.com/Microtone-Project/microtone-taudplay">JavaScript</a> · <a href="https://github.com/Microtone-Project/taudplay-c">C99</a> · <a href="https://github.com/Microtone-Project/taudplay-java">Java</a> · <a href="https://github.com/Microtone-Project/taudplay-godot">Godot 4</a> · LibGDX</p>
+<p align="center"><a href="https://github.com/Microtone-Project/microtone-taudplay">JavaScript</a> · <a href="https://github.com/Microtone-Project/libtaudplay">C99</a> · <a href="https://github.com/Microtone-Project/taudplay-java">Java</a> · <a href="https://github.com/Microtone-Project/taudplay-godot">Godot 4</a> · LibGDX</p>
 
 ---
 
